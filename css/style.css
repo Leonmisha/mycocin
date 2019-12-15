@@ -1060,7 +1060,7 @@ header {
   top: 0px;
   left: 0px;
   z-index: 1;
-  background: url("img/Wave-top-1.png") no-repeat;
+  background: url("../img/Wave-top-1.png") no-repeat;
   /* url("https://i.yapx.ru/FSWPd.png") */
 }
 
