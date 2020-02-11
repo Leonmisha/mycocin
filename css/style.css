@@ -456,7 +456,7 @@ header {
 
 .btn:focus {
   outline: none;
-  box-shadow: 0px 0px 0px 3px #a8caff;
+  box-shadow: 0px 0px 0px 5px #a8caff;
 }
 
 .buy-tablets-form-lastpack {
